@@ -62,7 +62,6 @@ export function SendNoteForm() {
         method: "POST",
         body: formData,
       })
-
       const data = await response.json()
 
       if (!response.ok) {
