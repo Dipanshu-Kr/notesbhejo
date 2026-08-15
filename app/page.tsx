@@ -31,7 +31,7 @@ export default function HomePage() {
             Share Notes & Files Securely with a PIN
           </h1>
           <p className="text-lg text-muted-foreground mb-8 max-w-xl mx-auto text-pretty">
-            Send private notes and files to anyone. They just need the PIN to access it. No accounts required.
+            Send private Notes and Files to anyone. They just need the PIN to access it. No accounts required.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <Button size="lg" asChild>
