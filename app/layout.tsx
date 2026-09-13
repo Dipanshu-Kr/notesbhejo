@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: 'NotesBhejo - Secure Note Sharing',
   description: 'Share notes securely with PIN-based access. Simple, fast, and private.',
   generator: 'v0.app',
+  verification: {
+    google: 'spzHjxzw_Gy66C8kL8yqZjDwQtejyyzbiGvgVEyeELI',
+  },
   icons: {
     icon: [
       {
